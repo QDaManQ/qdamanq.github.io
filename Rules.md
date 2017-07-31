@@ -1,0 +1,10 @@
+---
+title: Rules
+---
+
+<!DOCTYPE html>
+<html>
+<body style = "background-color: #f6f6f6;">
+<h1> Rules Bruh </h1>
+</body>
+</html>
