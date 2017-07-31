@@ -4,6 +4,9 @@ h1{
 	text-align: center;
 	padding-top: 200px;
 	color: #ffffff;
-	background-color: #000000;
-	
+	background-color: black;
+}
+img{
+	margin: auto;
+	display:block;	
 }
