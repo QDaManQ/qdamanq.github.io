@@ -3,6 +3,10 @@ body {
 	color: white;
 }
 
+IMG#logo {
+	text-align: center
+}
+
 h1{
 	font-family: Agency FB;
 	font-weight: bold;
