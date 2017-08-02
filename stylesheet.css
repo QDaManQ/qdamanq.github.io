@@ -1,5 +1,5 @@
 body {
-	background-image: http://cdn.wallpapersafari.com/46/49/OfQHDK.jpg("OfQHDK.jpg");
+	background-image: url("http://cdn.wallpapersafari.com/46/49/OfQHDK.jpg");
 	background-repeat: no-repeat;
 	color: black;
 }
@@ -24,6 +24,6 @@ h1{
 	padding-top: 150px;
 }
 
-#weight {
+#main {
 	width: 100%;
 }
