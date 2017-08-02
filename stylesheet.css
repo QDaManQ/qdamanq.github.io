@@ -4,12 +4,12 @@ body {
 }
 
 .marquee {
- height: 50px;	
+ height: 30px;	
  overflow: hidden;
  position: relative;
- background: yellow;
- color: orange;
- border: 1px solid orange;
+ background: silver;
+ color: black;
+ border: 1px solid silver;
 }
 .marquee p {
  position: absolute;
