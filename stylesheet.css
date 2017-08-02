@@ -1,6 +1,5 @@
 body {
-	background-image: url("http://cdn.wallpapersafari.com/46/49/OfQHDK.jpg");
-	background-repeat: no-repeat;
+	background-image: radial-gradient {silver, black};
 	color: black;
 }
 
