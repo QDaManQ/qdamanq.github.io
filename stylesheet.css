@@ -57,6 +57,10 @@ body {
 	height: 70px;
 }
 
+#AFCLogo {
+	text-align: right;
+}
+
 h1{
 	font-family: Agency FB;
 	font-weight: bold;
