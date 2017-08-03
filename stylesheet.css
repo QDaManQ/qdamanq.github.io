@@ -69,6 +69,12 @@ h1{
 	width: 100%;
 }
 
+#NFCNorth {
+	position: absolute;
+	top: 300px; 
+	right: 0px;
+}
+
 #ratings {
 	position: absolute;
 	top: 800px; 
