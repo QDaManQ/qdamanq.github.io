@@ -75,6 +75,12 @@ h1{
 	right: 0px;
 }
 
+#AFCWest {
+	position: absolute;
+	top: 300px;
+	right: 1000px;
+}
+
 #ratings {
 	position: absolute;
 	top: 800px; 
