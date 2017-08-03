@@ -71,14 +71,14 @@ h1{
 
 #NFCNorth {
 	position: absolute;
-	top: 300px; 
-	right: 0px;
+	top: 500px; 
+	right: 1400px;
 }
 
 #AFCWest {
 	position: absolute;
-	top: 300px;
-	right: 1000px;
+	top: 500px;
+	right: 0px;
 }
 
 #ratings {
