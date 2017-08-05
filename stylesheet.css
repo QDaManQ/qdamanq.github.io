@@ -68,6 +68,11 @@ h1{
 #main {
 	width: 100%;
 }
+#AFCEast{
+	position: absolute;
+	top : 500px;
+	right: 0px;
+}
 
 #NFCNorth {
 	position: absolute;
@@ -78,7 +83,7 @@ h1{
 #AFCWest {
 	position: absolute;
 	top: 500px;
-	right: 0px;
+	right: 50px;
 }
 
 #ratings {
