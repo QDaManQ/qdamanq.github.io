@@ -13,7 +13,7 @@ body {
 .marquee {
  height: 30px;	
  overflow: hidden;
- position: relative;
+ position: fixed;
  background: white;
  color: black;
  border: 1px solid white;
