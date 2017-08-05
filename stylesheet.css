@@ -71,19 +71,19 @@ h1{
 #AFCEast{
 	position: relative;
 	top : 500px;
-	right: px;
+	right: 0px;
 }
 
 #NFCNorth {
 	position: relative;
 	top: 500px; 
-	right: 1400px;
+	right: 800px;
 }
 
 #AFCWest {
 	position: relative;
 	top: 500px;
-	right: 1350px;
+	right: 0px;
 }
 
 #ratings {
