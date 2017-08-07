@@ -29,7 +29,11 @@ h1{
 #main {
 	width: 100%;
 }
-	
+#49ersbanner {
+	margin-top: 150px;
+	margin-left: 100px;
+}
+
 #ratings {
 	position: absolute;
 	top: 800px;
