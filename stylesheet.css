@@ -30,8 +30,8 @@ h1{
 	width: 100%;
 }
 #49ersbanner {
-	margin-top: 150px;
-	margin-left: 100px;
+		min-width: 1000px;
+	  max-width: 1273px;
 }
 
 #ratings {
